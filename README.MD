@@ -46,8 +46,7 @@ Leonardo：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| capa | Type of Image: Photorealistic Image
-Subject Description: A happy and sarcastic funny cabaretier, serving as the ringmaster of a circus, dressed in a purple suit. He must have his arms open as if he were presenting an attraction. The cabaretier is positioned in the center of the ring, surrounded by server racks with big large amount of visible cables extending from the racks and across the sand floor, along with multiple visible computers and notebooks. The lighting is dark, with beams of light emanating from two spotlights ion the floor behind the cabaretier.; Art Styles: Realistic HQ; Art Inspirations: Watchman HQ; Camera: Isometric perspective (front view from slightly above); Render Related; Information: Lens: 35mm |
+| capa | Type of Image: Photorealistic Image; Subject Description: A happy and sarcastic funny cabaretier, serving as the ringmaster of a circus, dressed in a purple suit. He must have his arms open as if he were presenting an attraction. The cabaretier is positioned in the center of the ring, surrounded by server racks with big large amount of visible cables extending from the racks and across the sand floor, along with multiple visible computers and notebooks. The lighting is dark, with beams of light emanating from two spotlights ion the floor behind the cabaretier.; Art Styles: Realistic HQ; Art Inspirations: Watchman HQ; Camera: Isometric perspective (front view from slightly above); Render Related; Information: Lens: 35mm |
 
 ## ✨ Features
 
