@@ -26,7 +26,7 @@ TextCortex：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  conteúdo superficial  | Escreva um e-book detalhado sobre as sete camadas do modelo de referência OSI (Open Systems Interconnection), incluindo exemplos específicos de dispositivos, tecnologias e protocolos associados a cada uma das seguintes camadas:
+|  conteúdo superficial  | "Escreva um e-book detalhado sobre as sete camadas do modelo de referência OSI (Open Systems Interconnection), incluindo exemplos específicos de dispositivos, tecnologias e protocolos associados a cada uma das seguintes camadas:
 
 1. Camada Física
 2. Camada de Enlace de Dados
@@ -37,9 +37,8 @@ TextCortex：
 7. Camada de Aplicação
 ﻿
 O e-book deve ser redigido de forma cativante e descontraída, utilizando um estilo de escrita cômico e informal, a fim de tornar o conteúdo técnico mais acessível e agradável ao leitor.
-Cada capitulo deve conter pelo menos 200 capalvras cada e se referir a uma camada, Totalizando 9 capitulos, iniciando com introdução e finalizando com conclusão.                                                        |
-| conteúdo específico| Detalhe mais reescrevendo o trecho do livro abaixo usando o mesmo contexto usado a cima, utilize 700 palavras:
-{CÁPITULO ESCRITO PELO PROMPT conteúdo superficial} |
+Cada capitulo deve conter pelo menos 200 capalvras cada e se referir a uma camada, Totalizando 9 capitulos, iniciando com introdução e finalizando com conclusão.  "                                                      |
+| conteúdo específico| Detalhe mais reescrevendo o trecho do livro abaixo usando o mesmo contexto usado a cima, utilize 700 palavras: {CÁPITULO ESCRITO PELO PROMPT conteúdo superficial} |
 
 
 Leonardo：
